@@ -27,7 +27,16 @@ A fully functional AI-based Voice Assistant developed in Python that listens, un
 - 🎤 Fully voice-controlled system
 - 🤖 Hands-free Android automation
 - 🗣️ Accurate speech recognition
-- 🔄 Returns to idle (blob UI) automatically after command execution
+- 🔄 Returns to idle (blob UI) automatically after command execution.
+
+- ## 🔐 Face Authentication (Security Feature)
+
+- 🔍 **Face Recognition Integration** – Jarvis **starts only after verifying your face**, ensuring **secure access**.  
+- 🧠 Built using **OpenCV** and **face_recognition** Python libraries.  
+- 🛡️ Prevents **unauthorized use** of the voice assistant.  
+- ✅ Face is matched in **real-time** before activating any functionality.  
+- 🎥 Captures face via **webcam** and compares with **pre-stored encoding**.
+
 
  ### Technology Used**
 
@@ -44,6 +53,6 @@ A fully functional AI-based Voice Assistant developed in Python that listens, un
 - 🟢 **SiriWaveform** –(for voice UI waveform animation)*
 - 🟢 **TextAnimator/WidgetAnimator** –( (for animated Jarvis texts)*
 - 🟢 **SQlite** – *for database*
-- 🟢 **and etc** 
+- 🟢 **and etc** .
 
 

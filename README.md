@@ -55,4 +55,20 @@ A fully functional AI-based Voice Assistant developed in Python that listens, un
 - 🟢 **SQlite** – *for database*
 - 🟢 **and etc** .
 
+## 🖼️ Output Screenshots
+Here are some output screenshots of the AI Voice Assistant in action:
+### 1.  🔐 Face Authentication Screen
+![Face Auth](images/faceauthentication.png)
+
+![Hii Welcome Sir](images/hii.png)
+
+### 2. UI - Oval
+![User Interface](images/oval.png)
+
+### 3. 🔊 Voice Command Detected
+![Voice Command](images/siriwave.png)
+
+
+
+
 
